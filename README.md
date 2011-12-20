@@ -14,7 +14,7 @@ In order to run it :
  * Create /data/db directory in order to allow MongoDB to store its data
  * Run mongod daemon
  * Run the following command : "sbt container:start"
- * Open your browser and go to http://localhost:8080/
+ * Open your browser and go to [http://localhost:8080/index.html](http://localhost:8080/index.html)
 
 
 Code is rewrite of [scala-spring-mvc-3](https://github.com/robertrolandorg/scala-spring-mvc-3/) Project in Scala.
